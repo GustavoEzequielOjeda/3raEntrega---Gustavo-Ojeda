@@ -1,5 +1,6 @@
 .card-variable, .pedidos-destacados, .inicio-descuento {
   text-align: center;
+  align-items: center;
   margin: 1.5rem;
 }
 .card-variable h4, .pedidos-destacados h4, .inicio-descuento h4 {
