@@ -1,0 +1,28 @@
+.h1-inicio{
+    @extend .titulo-variable;
+}
+
+.container-descuento{
+    @extend .flex-variable;
+}
+
+.inicio-descuento{
+    @extend .card-variable;
+}
+
+.titulo{
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.container-destacados{
+    @extend .flex-variable;
+}
+
+.pedidos-destacados{
+    @extend .card-variable;
+}

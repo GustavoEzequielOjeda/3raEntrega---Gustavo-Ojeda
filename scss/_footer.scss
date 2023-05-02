@@ -1,0 +1,31 @@
+.h3-footer{
+    text-align: center;
+    background-color: black;
+    font-size: 1rem;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.container-footer{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+
+.redes-footer{
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+    a:link{
+        color: black;}
+    a:visited{
+        color: black;
+    }
+    }
+.copyright{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 12px;
+    padding: 6px;
+}
