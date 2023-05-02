@@ -8,13 +8,22 @@
     img{max-width: 100%;}
 }
 
-.titulo-variable{
+.h1-variable{
     color: rgb(0, 0, 0);
     background-color: yellow;
     text-align: center;
     font-size: 1.7rem;
     font-weight: 600;
     padding: 8px;
+}
+
+.h2-variable{
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 5px;
 }
 
 .flex-variable{
