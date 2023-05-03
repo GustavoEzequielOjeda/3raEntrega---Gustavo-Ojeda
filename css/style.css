@@ -29,7 +29,7 @@
   padding: 5px;
 }
 
-.flex-variable, .container-destacados, .container-descuento {
+.flex-variable, .container-nosotros, .container-destacados, .container-descuento {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -81,6 +81,9 @@ body {
 .redes-footer a:visited {
   color: black;
 }
+.redes-footer img {
+  padding-right: 5px;
+}
 
 .copyright {
   text-align: center;
@@ -111,6 +114,28 @@ body {
 
 .gmail-contacto:visited {
   color: white;
+}
+
+.container-nosotros {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.container-historia {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+.container-historia h2 {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.container-historia p {
+  font-size: 18px;
+}
+
+.img-nosotros {
+  max-width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */
